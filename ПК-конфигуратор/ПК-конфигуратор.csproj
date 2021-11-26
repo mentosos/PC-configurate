@@ -193,6 +193,7 @@
     <Content Include="image\Western Digital Caviar Blue.jpg" />
     <Content Include="image\XFX Radeon RX 570.jpg" />
     <Content Include="image\XFX RS XXX.jpg" />
+    <Content Include="ПК-конфигуратор.exe" />
     <Content Include="Ресурсы\cpu.html" />
     <Content Include="Ресурсы\cpu_help.jpeg" />
     <Content Include="Ресурсы\hign-price.html" />
