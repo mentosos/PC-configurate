@@ -120,9 +120,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Ресурсы\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
       <Visible>False</Visible>
@@ -139,6 +137,88 @@
     <Content Include="CPU.mdb">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="image\ADATA SU635.jpg" />
+    <Content Include="image\Aerocool Cylon Mini.jpg" />
+    <Content Include="image\AMD Ryzen 3 3100.jpg" />
+    <Content Include="image\AMD Ryzen 7 2700.jpg" />
+    <Content Include="image\ARCTIC Alpine 64.jpg" />
+    <Content Include="image\ASRock B365M.jpg" />
+    <Content Include="image\Asus PRIME Z390.jpg" />
+    <Content Include="image\Asus ROG STRIX B450-F.jpg" />
+    <Content Include="image\Asus ROG Strix Gaming OC.jpg" />
+    <Content Include="image\be quiet! 300.jpg" />
+    <Content Include="image\Cooler Master Hyper 212 EVO.jpg" />
+    <Content Include="image\Cooler Master MasterBox 600.jpg" />
+    <Content Include="image\Corsair 100R.jpg" />
+    <Content Include="image\Corsair Dominator 4 GB.jpg" />
+    <Content Include="image\Corsair RM.jpg" />
+    <Content Include="image\Corsair Vengeance LPX 16 GB.jpg" />
+    <Content Include="image\Corsair Vengeance RGB Pro.jpg" />
+    <Content Include="image\Crucial MX500.jpg" />
+    <Content Include="image\CRYORIG H7.jpg" />
+    <Content Include="image\Deepcool GAMMAXX 400.jpg" />
+    <Content Include="image\ECS A75F2-M.jpg" />
+    <Content Include="image\EVGA BQ.jpg" />
+    <Content Include="image\EVGA BR.jpg" />
+    <Content Include="image\Fractal Design Meshify C.jpg" />
+    <Content Include="image\FSP Group 220.jpg" />
+    <Content Include="image\G.Skill Ripjaws V 16 GB.jpg" />
+    <Content Include="image\GameMax Kage.jpg" />
+    <Content Include="image\Gigabyte AORUS.jpg" />
+    <Content Include="image\Gigabyte WINDFORCE OC 3X.jpg" />
+    <Content Include="image\Gigabyte X570.jpg" />
+    <Content Include="image\Intel Core i5-3470.jpg" />
+    <Content Include="image\Intel Core i9-10900K.jpg" />
+    <Content Include="image\intel i3 9100.jpg" />
+    <Content Include="image\intel i9 9900k.jpg" />
+    <Content Include="image\Kingston A400.jpg" />
+    <Content Include="image\Kingston HyperX Blu 4 GB.jpg" />
+    <Content Include="image\Kingston HyperX T1 6 GB.jpg" />
+    <Content Include="image\MSI ARMOR OC.jpg" />
+    <Content Include="image\MSI B450 TOMAHAWK.jpg" />
+    <Content Include="image\MSI GeForce GTX 1660 SUPER 6 GB VENTUS XS.jpg" />
+    <Content Include="image\MSI Z390-A PRO.jpg" />
+    <Content Include="image\Mushkin 1 Gb.jpg" />
+    <Content Include="image\Noctua NH-D15 Black.jpg" />
+    <Content Include="image\Noctua NH-D15.jpg" />
+    <Content Include="image\Noctua NH-D15S.jpg" />
+    <Content Include="image\NZXT H510.jpg" />
+    <Content Include="image\ryzen 5 3600.jpg" />
+    <Content Include="image\Samsung 860 Evo.jpg" />
+    <Content Include="image\Samsung 970 Evo.jpg" />
+    <Content Include="image\Seagate BarraCuda 1 TB.jpg" />
+    <Content Include="image\SeaSonic 300.jpg" />
+    <Content Include="image\SeaSonic 350.jpg" />
+    <Content Include="image\Thermaltake Versa H17.jpg" />
+    <Content Include="image\Western Digital Caviar Blue.jpg" />
+    <Content Include="image\XFX Radeon RX 570.jpg" />
+    <Content Include="image\XFX RS XXX.jpg" />
+    <Content Include="Ресурсы\cpu.html" />
+    <Content Include="Ресурсы\cpu_help.jpeg" />
+    <Content Include="Ресурсы\hign-price.html" />
+    <Content Include="Ресурсы\hign-price.jpg" />
+    <Content Include="Ресурсы\low-price.html" />
+    <Content Include="Ресурсы\lowprice.jpg" />
+    <Content Include="Ресурсы\mid-price.html" />
+    <Content Include="Ресурсы\midprice.jpg" />
+    <Content Include="Ресурсы\motherboard.html" />
+    <Content Include="Ресурсы\motherboard.jpg" />
+    <Content Include="Ресурсы\PC-case.html" />
+    <Content Include="Ресурсы\PC-case.jpg" />
+    <Content Include="Ресурсы\PC-cooler.html" />
+    <Content Include="Ресурсы\PC-cooler.jpg" />
+    <Content Include="Ресурсы\powersupply.html" />
+    <Content Include="Ресурсы\powersupply.jpg" />
+    <Content Include="Ресурсы\ram.html" />
+    <Content Include="Ресурсы\Ram.jpg" />
+    <Content Include="Ресурсы\storage.html" />
+    <Content Include="Ресурсы\storage.jpg" />
+    <Content Include="Ресурсы\videocard.html" />
+    <Content Include="Ресурсы\videocard.jpeg" />
+    <Content Include="Ресурсы\история.html" />
+    <Content Include="Ресурсы\Тест 1.txt" />
+    <Content Include="Ресурсы\Тест 2.txt" />
+    <Content Include="Ресурсы\Тест 3.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
